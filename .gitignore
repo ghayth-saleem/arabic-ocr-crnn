@@ -1,0 +1,22 @@
+# Generated data / model artifacts (too large for git, regenerate locally)
+data/synthetic/
+data/test_pages/
+checkpoints/
+train.log
+
+# Fonts are copied from licensed system fonts - do not redistribute
+fonts/*.ttf
+fonts/*.otf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local tooling
+.claude/

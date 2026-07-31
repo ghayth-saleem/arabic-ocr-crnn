@@ -1,0 +1,8 @@
+torch
+torchvision
+pillow
+arabic-reshaper
+python-bidi
+numpy
+tqdm
+editdistance
